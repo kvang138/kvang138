@@ -1,13 +1,16 @@
 <!--## Hi there 👋 -->
 
 # Hi, I'm Kao!
-<h2 style="color: blue !important">Programmer, Cybersecurity Analyst</h2>
+# Programmer and Cybersecurity Analyst
 
-## Software Development Project
+## 🧑‍💻 Software Development Projects:
+- <strong>PowerShell</strong>
+  - Monitoring for connected and disconnected devices.
+- <strong>Python</strong>
 
-
-
-
+## 🛡️🧑‍💻Cybersecurity Projects
+- Splunk firewall dashboard
+- Azure SOC Lab
 
 <!--
 **kvang138/kvang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
