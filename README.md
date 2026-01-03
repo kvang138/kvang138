@@ -8,7 +8,7 @@
   - Monitoring for connected and disconnected devices.
 - <strong>Python</strong>
 
-## 🛡️🧑‍💻Cybersecurity Projects
+## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
 - Splunk firewall dashboard
 - Azure SOC Lab
 
