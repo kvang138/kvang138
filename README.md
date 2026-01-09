@@ -12,7 +12,7 @@
 - [Splunk Firewall Dashboard](https://github.com/kvang138/Splunk/)
 - [Azure SOC and Honeynet Lab](https://github.com/kvang138/Azure-SOC-and-Honeynet))
 - [Azure OWASP Juicebox and Application Gateway (WAF)](https://github.com/kvang138)
-    - Securing a extremely vulberable web application with compensating security controls.
+    - Securing an extremely vulnerable web application with compensating security controls.
 
 <!--
 **kvang138/kvang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
