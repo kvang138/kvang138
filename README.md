@@ -9,7 +9,7 @@
 - <strong>Python</strong>
 
 ## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
-- [Splunk firewall dashboard](https://github.com/kvang138/Splunk/)
+- [Splunk Firewall Dashboard](https://github.com/kvang138/Splunk/)
 - [Azure SOC and honeynet lab](Azure-SOC-and-Honeynet)
 - [Azure OWASP Juicebox and Application Gateway (WAF)](https://github.com/kvang138)
 
