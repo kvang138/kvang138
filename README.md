@@ -9,7 +9,7 @@
 - <strong>Python</strong>
 
 ## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
-- Splunk firewall dashboard
+- [Splunk firewall dashboard](https://github.com/kvang138/Splunk/)
 - Azure SOC Lab
 
 <!--
