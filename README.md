@@ -11,6 +11,7 @@
 ## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
 - [Splunk firewall dashboard](https://github.com/kvang138/Splunk/)
 - [Azure SOC and Honeynet Lab](Azure-SOC-and-Honeynet)
+- [Azure OWASP and WAF](https://github.com/kvang138)
 
 <!--
 **kvang138/kvang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
