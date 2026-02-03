@@ -5,9 +5,12 @@
 
 ## 🧑‍💻 Software Development Projects:
 - <strong>PowerShell</strong>
-  - Monitoring for connected and disconnected devices.
+  - Device Connectivity Monitor
 - <strong>Python</strong>
-
+  - Wireless Network Watcher
+- <strong>C#</strong>
+  - Wireless Network Watcher Log Viewer
+  
 ## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
 - [Splunk Firewall Dashboard](https://github.com/kvang138/Splunk/)
 - [Azure SOC and Honeynet Lab](https://github.com/kvang138/Azure-SOC-and-Honeynet)
