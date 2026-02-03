@@ -14,7 +14,7 @@
   - Wireless Network Watcher Log Viewer
   
 ## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
-- [Splunk Firewall Dashboard](https://github.com/kvang138/Splunk/)
+- [Splunk Firewall Sentinel](https://github.com/kvang138/Splunk/)
 - [Azure SOC and Honeynet Lab](https://github.com/kvang138/Azure-SOC-and-Honeynet)
 - [Azure OWASP Juicebox and Application Gateway (WAF)](https://github.com/kvang138)
     - Securing an extremely vulnerable web application with compensating security controls.
