@@ -3,7 +3,7 @@
 # Hi, I'm Kao!
 # Programmer and Cybersecurity Analyst
 
-## 🧑‍💻 Software Development Projects:
+## 🧑‍💻🛠️ Software Development Projects:
 - <strong>PowerShell</strong>
   - Device Connectivity Monitor
 - <strong>Python</strong>
