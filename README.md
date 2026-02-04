@@ -8,6 +8,7 @@
   - Device Connectivity Monitor
 - <strong>Python</strong>
   - [Wireless Network Watcher](https://github.com/kvang138/Wireless-Network-Watcher)
+    - A simple Wireless Network Watcher.
   - BrutalFlask
   - PyBackup
 - <strong>C#</strong>
