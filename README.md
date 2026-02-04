@@ -19,7 +19,7 @@
 - [Azure OWASP Juicebox and Application Gateway (WAF)](https://github.com/kvang138)
     - Securing an extremely vulnerable web application with compensating security controls.
 - [Azure MISP SOC Lab]()
-    - a pratical hands-on, cloud-native Security Operations Center (SOC) lab built to develop and sharpen modern threat detection and response capabilities using Microsoft Sentinel powered by MISP threat intelligence.
+    - a practical hands-on, cloud-native Security Operations Center (SOC) lab built to develop and sharpen modern threat detection and response capabilities using Microsoft Sentinel powered by MISP threat intelligence.
 <!--
 **kvang138/kvang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
