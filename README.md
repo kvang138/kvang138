@@ -7,11 +7,11 @@
 - <strong>PowerShell</strong>
   - Device Connectivity Monitor
 - <strong>Python</strong>
-  - Wireless Network Watcher
+  - [Wireless Network Watcher](https://github.com/kvang138/Wireless-Network-Watcher)
   - BrutalFlask
   - PyBackup
 - <strong>C#</strong>
-  - Wireless Network Watcher Log Viewer
+  - [Wireless Network Watcher Log Viewer](https://github.com/kvang138/Wireless-Network-Watcher-Log-Viewer)
   
 ## 🚨🔥🧱🛡️🧑‍💻Cybersecurity Projects
 - [Splunk Firewall Sentinel](https://github.com/kvang138/Splunk/)
