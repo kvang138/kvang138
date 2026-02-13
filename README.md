@@ -20,7 +20,7 @@
 - [Splunk Firewall Sentinel](https://github.com/kvang138/Splunk-Firewall-Sentinel)
   - A Splunk Firewall Sentinel dashboard to provide comprehensive, at-a-glance visibility into firewall logs and network activity, enabling rapid detection of anomalies, policy violations, and potential malicious intrusions to strengthen perimeter security monitoring.
 - [BrutalFlask](https://github.com/kvang138/BrutalFlask)
-  - An insecure Flask web app paired with an educational brute-force script — perfect for demonstrating basic web authentication attacks and the critical role of rate limiting
+  - An insecure Flask web app paired with an educational brute-force script — perfect for demonstrating basic web authentication attacks and the critical role of rate limiting.
 - [Wireshark Network Packet Capture and Protocol Analysis Lab](https://github.com/kvang138/Wireshark-Capture-Lab)
   - Capturing and analyzing network packets and protocols using Wireshark.
 - [Azure SOC and Honeynet Lab](https://github.com/kvang138/Azure-SOC-and-Honeynet)
