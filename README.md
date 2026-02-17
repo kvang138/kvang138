@@ -24,7 +24,7 @@
 - [Wireshark Network Packet Capture and Protocol Analysis Lab](https://github.com/kvang138/Wireshark-Capture-Lab)
   - Capturing and analyzing network packets and protocols using Wireshark.
 - [Azure SOC and Honeynet Lab](https://github.com/kvang138/Azure-SOC-and-Honeynet)
-   - A Cloud-Based SOC and Honeynet Project in Microsoft Azure.
+   - A cloud-based SOC and Honeynet Project in Microsoft Azure.
 - [Azure OWASP Juice Shop and Application Gateway (WAF)](https://github.com/kvang138/Azure-OWASP-Juice-Shop-and-Application-Gateway-WAF)
     - Securing an extremely vulnerable web application with compensating security controls.
 - [Azure MISP SOC Lab](https://github.com/kvang138/Azure-MISP-SOC-Lab)
