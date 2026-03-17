@@ -1,7 +1,7 @@
 <!--## Hi there 👋 -->
 
 # Hi, I'm Kao!
-# A Programmer and a Network Systems Administrator with heavy cybersecurity focus who is also passionate about cybersecurity.
+# A Programmer and Network Systems Administrator with a heavy focus on and passion for cybersecurity.
 
 ## 🧑‍💻🛠️ Software Development Projects:
 - <strong>PowerShell</strong>
