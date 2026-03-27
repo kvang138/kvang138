@@ -29,6 +29,10 @@
     - Securing an extremely vulnerable web application with compensating security controls.
 - [Azure MISP SOC Lab](https://github.com/kvang138/Azure-MISP-SOC-Lab)
     - A practical hands-on, cloud-native Security Operations Center (SOC) lab built to develop and sharpen modern threat detection and response capabilities using Microsoft Sentinel powered by MISP threat intelligence.
+- [Vulnerability Management Lab](https://github.com/kvang138/Vulnerability-Management-Lab)
+
+## 🤖 ML/AI Projects
+- [MCP Agentic AI](https://github.com/kvang138/MCP-Agentic-AI-Lab)
 <!--
 **kvang138/kvang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
